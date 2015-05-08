@@ -1,0 +1,41 @@
+/* 公共部分 */
+.aw-wecenter{margin:0 0 0 260px;}
+.aw-side-bar{margin-top: 20px;}
+.aw-side-bar .aw-side-bar-mod{border-top: 1px dotted #C1CAD4;}
+.aw-li-border-bottom li{border-top: none;}
+.btn.aw-active{background-color: #428BCA;border-color:#357EBD;}
+
+/* 顶部 */
+.ib-top-stripe{position:fixed;top:0;z-index:9998;width:100%;height: 5px;background-color: #10A4FF;}
+.ib-top-menu{position: fixed;right: 0;top:5px;z-index:9998;width:140px;height:29px;line-height:29px;background-image: url('img/top-menu-bg.png');background-position: no-repeat;text-align: center;}
+.ib-top-menu i{margin-left:15px;font-size:22px;color: #fff;}
+
+/* 左侧边栏 */
+.ib-fixed-menu{position:fixed;top:5px;z-index:998;width: 250px;height: 100%;overflow:hidden;background-color: #1D1D1D;border-right: 2px solid rgba(255, 255, 255, 0.85);}
+.ib-fixed-menu .aw-logo{width:220px;height:70px;margin-top:20px;}
+.ib-fixed-menu .aw-logo a{width:220px;height:46px;background: url(img/logo.png) no-repeat; }
+.ib-fixed-menu .aw-article ul li{float: left;width: 82px;text-align: center;}
+.ib-fixed-menu .aw-article ul li a{display: block;height: 60px;transition:all 0.2s ease-out 0s;color: #AAAAAA;}
+.ib-fixed-menu .aw-article ul li a:hover{color: #fff;}
+.ib-fixed-menu .aw-article ul li a.active{background-color: #10A4FF;color: #fff;}
+.ib-fixed-menu .aw-article ul li a i{display: block;padding-top:10px;font-size: 18px;}
+.ib-fixed-menu .aw-search-bar{margin:10px 0;padding:10px;background-color: #111111;}
+.ib-fixed-menu .aw-search-bar input{width:200px;background-color: #111111;color: #fff;border:0px;}
+.ib-fixed-menu .aw-search-bar i{font-size:18px;color: #AAAAAA;}
+.ib-fixed-menu .aw-nav{margin-bottom: 30px;}
+.ib-fixed-menu .aw-nav ul li a{display:block;margin:1px 0;padding:10px 20px 8px 25px;border-left: 6px solid #555555;color: #AAA;transition:all 0.2s ease-out 0s;}
+.ib-fixed-menu .aw-nav ul li a:hover{border-left:6px solid #FF9933;color: #fff;}
+.ib-fixed-menu .aw-nav ul li a.active{border-left: 6px solid #10A4FF;color: #fff;}
+.ib-copyright{margin-top: 10px;font-size: 12px;text-align: center;color: #AAAAAA;}
+.ib-copyright a{color: #AAAAAA;}
+
+/* 分类 */
+.category{margin-top: 20px;}
+
+/* 问题详情页 */
+.aw-global-tips{margin:0;}
+.aw-main-content{padding-top:20px;}
+
+/* 用户排名 */
+.aw-user-sort{margin-top: 20px;}
+
